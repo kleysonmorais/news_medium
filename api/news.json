@@ -1,102 +1,122 @@
 [
-    {
-        "id": "63443",
-        "tittle": "AnTuTu disponibiliza ranking dos 10 smartphones mais r\u00e1pidos do m\u00eas de agosto",
-        "description": "AnTuTu libera a lista dos dez aparelhos que melhor pontuaram, com predomin\u00e2ncia chinesa",
-        "url_img": "https://raw.githubusercontent.com/RafaelBarbosatec/tutorial_flutter_medium/master/api/imgs/63443.jpg",
-        "link": "https:\/\/www.tudocelular.com\/curiosidade\/noticias\/n130269\/antutu-top-10-smartphones-agosto.html",
-        "origin": "Tudocelular.com",
-        "category": "technology",
-        "date": "2018-09-03 22:19:48"
-    },
-    {
-        "id": "63438",
-        "tittle": "Antutu \u2013 Conhe\u00e7a os 10 melhores smartphones de agosto",
-        "description": "A lista de agosto do Antutu j\u00e1 \u00e9 conhecida, destacando os melores smartphones durante este m\u00eas nos smartphones. Quem estar\u00e1 a liderar este top?",
-        "url_img": "https://raw.githubusercontent.com/RafaelBarbosatec/tutorial_flutter_medium/master/api/imgs/63438.jpg",
-        "link": "https:\/\/pplware.sapo.pt\/smartphones-tablets\/android\/con\/",
-        "origin": "Sapo.pt",
-        "category": "technology",
-        "date": "2018-09-03 21:00:56"
-    },
-    {
-        "id": "63440",
-        "tittle": "ASUS Zenfone 5Z: um \"intermedi\u00e1rio\" com Snapdragon 845 | Review\/An\u00e1lise",
-        "description": "Chegou a hora de conferir o que o atual flagship da ASUS tem a oferecer frente a rivais e tamb\u00e9m em compara\u00e7\u00e3o com sua vers\u00e3o mais b\u00e1sica.",
-        "url_img": "https://raw.githubusercontent.com/RafaelBarbosatec/tutorial_flutter_medium/master/api/imgs/63440.jpg",
-        "link": "https:\/\/www.tudocelular.com\/asus\/noticias\/n130263\/asus-zenfone-5z-review.html",
-        "origin": "Tudocelular.com",
-        "category": "technology",
-        "date": "2018-09-03 20:21:28"
-    },
-    {
-        "id": "63441",
-        "tittle": "6 maneiras em que o Chrome mudou nossa forma de navegar na internet",
-        "description": "Google Chrome completa 10 anos como o navegador mais usado no mundo",
-        "url_img": "https://raw.githubusercontent.com/RafaelBarbosatec/tutorial_flutter_medium/master/api/imgs/63441.jpg",
-        "link": "https:\/\/www.tecmundo.com.br\/internet\/133895-6-maneiras-chrome-mudou-nossa-forma-navegar-internet.htm",
-        "origin": "Tecmundo.com.br",
-        "category": "technology",
-        "date": "2018-09-03 20:00:17"
-    },
-    {
-        "id": "63402",
-        "tittle": "Caiu a\u00ed? Facebook, Whatsapp e Instagram passam por instabilidade",
-        "description": "Tanto servi\u00e7os de mensagens como redes sociais s\u00e3o prejudicadas pela instabilidade, que ocorre desde o final desta segunda-feira",
-        "url_img": "https://raw.githubusercontent.com/RafaelBarbosatec/tutorial_flutter_medium/master/api/imgs/63402.jpg",
-        "link": "https:\/\/www.tudocelular.com\/android\/noticias\/n130267\/facebook-whatsapp-e-instagram-instabilidade.html",
-        "origin": "Tudocelular.com",
-        "category": "technology",
-        "date": "2018-09-03 19:28:54"
-    },
-    {
-        "id": "63432",
-        "tittle": "Op\u00e7\u00e3o para desabilitar bot\u00e3o da Bixby chega ao Note 9 ainda em setembro",
-        "description": "Samsung da Alemanha confirmou a chegada do recurso a um usu\u00e1rio que questionou a empresa sobre o assunto",
-        "url_img": "https://raw.githubusercontent.com/RafaelBarbosatec/tutorial_flutter_medium/master/api/imgs/63432.jpg",
-        "link": "https:\/\/www.tecmundo.com.br\/software\/133902-opcao-desabilitar-botao-bixby-chega-note-9-ainda-setembro.htm",
-        "origin": "Tecmundo.com.br",
-        "category": "technology",
-        "date": "2018-09-03 19:15:40"
-    },
-    {
-        "id": "63406",
-        "tittle": "Garoto deixa fam\u00edlia no vermelho ao gastar R$ 6 mil em Fortnite",
-        "description": "Cleo Duckett, m\u00e3e sozinha com dois filhos e cadeirante por conta de p\u00f3lio, descobriu que seu filho havia gastado, em seu cart\u00e3o de cr\u00e9dito, \u00a3 1.193, 25 (R$ 6.334) no jogo, colocando-a no cheque especial. Ela at\u00e9 tentou negociar com o banco, sem sucesso",
-        "url_img": "https://raw.githubusercontent.com/RafaelBarbosatec/tutorial_flutter_medium/master/api/imgs/63406.jpg",
-        "link": "https:\/\/canaltech.com.br\/games\/garoto-deixa-familia-no-vermelho-ao-gastar-r-6-mil-em-fortnite-121738\/",
-        "origin": "Canaltech.com.br",
-        "category": "technology",
-        "date": "2018-09-03 18:47:42"
-    },
-    {
-        "id": "63408",
-        "tittle": "V\u00eddeo mostra c\u00e2mera retr\u00e1til de suposto Xiaomi Mi Mix 3",
-        "description": "Rumores apontam que aparelho ter\u00e1 sistema de deslize que esconde a c\u00e2mera frontal, o que libera toda a parte da frente para a tela. Aparelho ainda n\u00e3o tem data de lan\u00e7amento, mas Mi Mix 2S teve pre\u00e7o reduzido, indicando que novo dispositivo pode estar pr\u00f3ximo",
-        "url_img": "https://raw.githubusercontent.com/RafaelBarbosatec/tutorial_flutter_medium/master/api/imgs/63408.jpg",
-        "link": "https:\/\/canaltech.com.br\/smartphone\/video-mostra-camera-retratil-de-suposto-xiaomi-mi-mix-3-121742\/",
-        "origin": "Canaltech.com.br",
-        "category": "technology",
-        "date": "2018-09-03 18:24:00"
-    },
-    {
-        "id": "63410",
-        "tittle": "AnTuTu: melhores smartphones em agosto de 2018",
-        "description": "A cada m\u00eas, o AnTuTu, famoso aplicativo de benchmark, publica uma lista com os melhores smartphones em termos de desempenho, elencando aqueles que conseguiram registrar mais pontos. Agora, temos os dados referentes a agosto, que por sinal, abrange apenas apar\u2026",
-        "url_img": "https://raw.githubusercontent.com/RafaelBarbosatec/tutorial_flutter_medium/master/api/imgs/63410.jpg",
-        "link": "https:\/\/www.maistecnologia.com\/antutu-melhores-smartphones-em-agosto-de-2018\/",
-        "origin": "Maistecnologia.com",
-        "category": "technology",
-        "date": "2018-09-03 18:09:48"
-    },
-    {
-        "id": "63413",
-        "tittle": "Aten\u00e7\u00e3o ao que recebe! WhatsApp mostrar\u00e1 imagens na notifica\u00e7\u00e3o no iPhone",
-        "description": "\u00c9 bom a partir de agora voc\u00ea tomar cuidado com o que recebe de grupos do WhatsApp por a\u00ed. Uma nova atualiza\u00e7\u00e3o do aplicativo para iPhone liberada nesta seg...",
-        "url_img": "https://raw.githubusercontent.com/RafaelBarbosatec/tutorial_flutter_medium/master/api/imgs/63413.jpg",
-        "link": "https:\/\/tecnologia.uol.com.br\/noticias\/redacao\/2018\/09\/03\/cuidado-com-o-que-recebe-whatsapp-vai-mostrar-previa-de-imagens-no-iphone.htm",
-        "origin": "Uol.com.br",
-        "category": "technology",
-        "date": "2018-09-03 18:01:22"
-    }
+  {
+    "id": "63443",
+    "tittle": "Projeto de estudante paraense que criou tijolo à base de Açaí é analisado pela Usp",
+    "description": "",
+    "url_img": "https://raw.githubusercontent.com/Kleysonb/news_medium/master/api/imgs/francielly.jpg",
+    "link": "https://imperatriznoticias.ufma.br/educacao/projeto-de-estudante-paraense-que-criou-tijolo-a-base-de-acai-e-analisado-pela-usp/",
+    "origin": "imperatriznoticias.ufma",
+    "category": "Educação",
+    "date": "2019-06-08 22:19:48",
+    "autor": "Helyh",
+    "text": "Açaí é um fruto muito conhecido na região amazônica. A população utiliza-o como alimento mas o caroço, que constitui 84% de todo o fruto, é desperdiçado. Mas a aluna Francielly Rodrigues Barbosa, aluna de ensino médio da Escola Estadual Ernestina Pereira Maia, fez do caroço do açaí matéria prima para a produção de Tijolos.\nFrancielly, que tem 17 anos, mora em Moju, cidade que fica a 120 km da capital Belém, teve a ideia quando procurava um tema para apresentar na feira de ciências da escola. A partir de uma conversa com seus professores sobre questões sociais e ambientais da cidade, que se notou que existia um mau cheiro próximo às residências de dois professores que moravam no bairro da Pedreira,  a estudante, então, decidiu investigar a situação do bairro.\nAtravés de conversas com os moradores do bairro, ela descobriu que o mau cheiro e a fragilidade das casas era algo recorrente na região e até em outras cidades próximas, isso porque as casas foram feitas acima das várzeas de um igarapé, que cortava a cidade e que foi aterrado com lixo. Francielly percebeu com questionários que era recorrente essa prática para construir essas fundações.\nEla explica como lhe surgiu a ideia da produção dos tijolos a base de Açaí, “Então, eu me perguntei: que material de baixo custo que não agrida o meio ambiente eu posso reutilizar para fazer as fundações de casa de forma mais segura? Quais aqueles materiais eram mais desperdiçados? E eu acabei descobrindo o caroço do açaí”.\nO caroço do açaí, diferente de outras matérias primas,  possui uma substâncias que impedem o ataque de fungos, demorando a decomposição; outros produtos se decomponham rapidamente liberando metano o que propiciava o mau cheiro. A pesquisa de Francielly fez com que a jovem conquistasse 15 prêmios, um deles foi uma viagem aos Estados Unidos para conhecer a Universidade de Harvard e o Instituto de Tecnologia de Massachusetts, além de conseguir permissão para participar da Feira Brasileira de Ciências e Engenharia de 2018.\nAtualmente um grupo de alunos da universidade de São Paulo está fazendo teste com base na descoberta da paraense. Os estudos querem identificar outros elementos que juntos as propriedades do caroço do açaí possibilitem a utilização dele para construções, uma alternativa é a argila. Segundo Francielly, o projeto além de fazer a reciclagem do caroço do açaí, que iria pro lixo, ainda diminui a retirada da argila da natureza, sendo assim, uma forma eficiente e barata para fazer essas construções.\nO Ministério da Educação divulga, uma edição do programa Trilhas da Educação, da Rádio MEC, toda voltada ao projeto da estudante paraense. Link para o programa Trilha da Educação: http://redenacionalderadio.com.br/programas/trilhas-da-educacao/07-06-2019-trilhas-da-educacao-reciclagem_do_caroco_do_acai-05m02s-finalizado.mp3/view"
+  },
+  {
+    "id": "63443",
+    "tittle": "Hospital Socorrão passa por revitalização em sua fachada",
+    "description": "",
+    "url_img": "https://raw.githubusercontent.com/Kleysonb/news_medium/master/api/imgs/foto_socorrao.png",
+    "link": "https://imperatriznoticias.ufma.br/cidade/hospital-socorrao-passa-por-revitalizacao-em-sua-fachada/",
+    "origin": "imperatriznoticias.ufma",
+    "category": "Cidade",
+    "date": "2019-06-08 22:19:48",
+    "autor": "Ana Campos",
+    "text": "O Hospital Municipal de Imperatriz (HMI), mais conhecido como  Socorrão está passando por uma pequena revitalização em sua fachada e algumas obras internas. As adequações iniciaram no dia quatro de junho e de acordo com a Secretaria Municipal de Saúde (Semus) responsável pelas  modificações, os serviços deverão ser concluídos em um mês.\nA estrutura externa  do hospital não passa por reforma a mais de sete anos, dentre as mudanças previstas na pequena revitalização, está à retirada das caixas de ar condicionado da fachada, a remoção da pintura antiga que está se soltando, a renovação 100% da pintura do prédio e a ampliação da marquise de entrada para que se estenda ate o limite da calçada, possibilitando assim o recebimento de duas ambulâncias ao mesmo tempo.\nAs obras na parte interna que começaram no início do ano estão em fase de conclusão, ao todo 14 enfermaria já foram revitalizadas, salas do bloco cirúrgico ainda passam por reforma, novos ambientes de repouso aos funcionários  foram implantados, o ambulatório da ortopedia também passa por reformas e houve a  substituição total da instalação elétrica para climatização das enfermarias e do bloco cirúrgico.\nSegundo a diretora do HMI, Marília Carvalho, a meta é fazer com que o Socorrão passe por uma reforma estrutural completa e explica que foi realizado um planejamento para garantir a modernização do prédio."
+  },
+  {
+    "id": "63443",
+    "tittle": "Faculdade Pitágoras lidera ranking 2018 de reclamações no Procon/MA",
+    "description": "",
+    "url_img": "https://raw.githubusercontent.com/Kleysonb/news_medium/master/api/imgs/pitagoras.png",
+    "link": "https://imperatriznoticias.ufma.br/geral/faculdade-pitagoras-lidera-ranking-2018-de-reclamacoes-no-procon-ma/",
+    "origin": "imperatriznoticias.ufma",
+    "category": "Geral",
+    "date": "2019-06-08 22:19:48",
+    "autor": "Suzana Queiroz",
+    "text": "Foi divulgado no mês de março pelo Procon/MA o ranking das 10 empresas mais reclamadas no ano de 2018. A Faculdade Pitágoras, ocupa o primeiro lugar sendo novidade no ranking com 209 reclamações, desbancando a Cemar que em 2017 liderava com 240 reclamações e atualmente esta em terceiro com 134.\nAlém dos números de reclamações das 10 empresas, foram disponibilizados os números de reclamações atendidas no ano de 2018. De acordo com o Ranking, a empresa que mais deram suporte e ofereceram respostas aos seus consumidores foram a OI que atendeu 88,8% das reclamações que recebeu, OI móvel também está em uma das que mais atendeu suas reclamações com 81,8%. Banco do Brasil que ocupa o segundo lugar no ranking com 170 reclamações atendeu somente 18,8% delas, enquanto a Faculdade Pitágoras que recebeu o maior número de reclamações atendeu somente 21,5%.\nA presidente do Procon/MA afirma que as informações disponibilizadas no ranking como a quantidade de reclamações e o índice de respostas esclarece para o consumidor quais empresas procuram melhorar os serviços prestados e quais continuam com os erros. “Nossa equipe trabalha incansavelmente para que os indicadores de solução de conflitos sejam cada vez melhores, harmonizando, assim, as relações de consumo por meio da garantia do direito do consumidor. Ainda há muito a avançar, por isso, continuaremos atuando com ações preventivas, de orientação e fiscalização”, alega a presidente.\nO Universitário Kesio Siriano da Silva (27), é umas das pessoas que recorreram ao Procon/MA para reclamar de problemas com a Faculdade Pitágoras por conta de juros cobrados por uma parcela de uma das matérias que precisa concluir, ao contratar um contador percebeu que a divida que hoje chega a 13 mil é indevida, e atualmente foi impedido de realizar a rematrícula e não percebe interesse por parte da reclamada em resolver a situação. “Não consegui fazer minha rematrícula, foi ofertado um parcelamento com entrada de cinco mil reais. Após varias tentativas de resolver com a própria Faculdade percebi o descaso, total falta de responsabilidade, então abri a reclamação no Procon, espero que a situação seja esclarecida e resolvida”, relata o Universitário."
+  },
+  {
+    "id": "63443",
+    "tittle": "AnimaCon terá nova edição para fãs da cultura nerd em Imperatriz",
+    "description": "",
+    "url_img": "https://raw.githubusercontent.com/Kleysonb/news_medium/master/api/imgs/animacon.jpg",
+    "link": "https://imperatriznoticias.ufma.br/cultura/animacon-tera-nova-edicao-para-fas-da-cultura-nerd-em-imperatriz/",
+    "origin": "imperatriznoticias.ufma",
+    "category": "Cultura",
+    "date": "2019-06-08 22:19:48",
+    "autor": "Alice Caroline",
+    "text": "Nos dias 17 e 18 de agosto acontecerá mais uma edição do AnimaCom em Imperatriz. O evento será realizado no Shopping Tocantins das 10h às 20h e será aberto à todos os Imperatrizences admiradores da cultura ‘Geek’.\nO encontro que já aconteceu várias vezes na cidade trata sobre a cultura nerd ou Geek, cultura que envolve  filmes de super-heróis, ficção científica, séries de quadrinhos, livros de mitologia, animes, mangás e tudo mais que pertença ao público nerd.\nSegundo a organização, a programação contará com campeonato de games, palestras, concurso de cosplay, exibição de animes, gincanas e stands de vendas. Além disso, a organização também divulgou a participação de Alfredo Rollo, brasileiro que dublou Vegeta, personagem da famosa série de animação Dragon Ball Z.\nEntão, se você gosta de consumir produtos da Cultura Nerd, se vestir dos seus personagens preferidos de séries e filmes,  assistir seus animes, você não pode ficar de fora dessa."
+  },
+  {
+    "id": "63443",
+    "tittle": "Disney convida quadrilha junina maranhense para lançar o filme Toy Story 4 no Brasil",
+    "description": "",
+    "url_img": "https://raw.githubusercontent.com/Kleysonb/news_medium/master/api/imgs/disney.png",
+    "link": "https://imperatriznoticias.ufma.br/cultura/disney-convida-quadrilha-junina-maranhense-para-lancar-o-filme-toy-story-4-no-brasil/",
+    "origin": "imperatriznoticias.ufma",
+    "category": "Cultura",
+    "date": "2019-06-08 22:19:48",
+    "autor": "Agda Anastacio",
+    "text": "A quadrilha junina maranhense  Matutos do Rei é convidada pela Disney Pixar para a divulgação do lançamento do filme Toy Story 4, a apresentação acontecerá  na terceira edição do “São João da Thay”, evento organizado pela digital influencer maranhense Thaynara OG. A festa acontecerá no dia 19 de junho em São Luis do Maranhão, um dia antes do lançamento do filme em todo os cinemas.\nA Matutos do Rei é uma quadrilha junina que vem  de um projeto social formado por jovens de diferentes bairros do município de Açailândia (MA), que dançam, cantam, interpretam caracterizados com figurinos, adereços e cenografia.\nO grupo apresentará uma versão especial da quadrilha junina, onde terá 120 dançarinos com figurinos desenhados exclusivamente pelo figurinista Walisson Melo, a atração que tem inspiração nos principais personagens do longa, como Woody, Buzz, Sr Cabeça de Batata, entre outros,  também contará com  versões juninas das músicas do filme, coreografias Tharles Ponciano e direção geral de Xico Cruz.\nO evento reunirá a presença de vários influenciadores da campanha do filme, entre eles estará a  Camila Loures,  Federico Devito,  Lucas Rangel e Enaldinho."
+  },
+  {
+    "id": "63443",
+    "tittle": "Atacante Marta está fora da partida de Brasil e Jamaica neste domingo",
+    "description": "",
+    "url_img": "https://raw.githubusercontent.com/Kleysonb/news_medium/master/api/imgs/marta.jpeg",
+    "link": "https://imperatriznoticias.ufma.br/sem-categoria/atacante-marta-esta-fora-da-partida-de-brasil-e-jamaica-neste-domingo/",
+    "origin": "imperatriznoticias.ufma",
+    "category": "Sem Categoria",
+    "date": "2019-06-08 22:19:48",
+    "autor": "Ester Feitosa Nogueira",
+    "text": "A seleção brasileira feminina de futebol, estréia neste domingo (9) sua participação na Copa do Mundo, mas sua principal atacante não joga.\nA CBF anunciou que a jogadora Marta “sentiu uma dor na região posterior da coxa esquerda durante o treinamento”. O técnico Vadão lamenta a ausência da jogadora, e diz que, ela pode escolher ficar ou não no banco de reservas. “Às vezes ela pode optar por ficar conosco no banco e criar uma expectativa, mas a nossa programação com a Marta é para ela não participar desse jogo”. Afirma o treinador.\nA bola do ataque agora fica com Cristiane e Bia Zaneratto além de Marta, a zagueira Erika também foi cortada do time por uma lesão na coxa esquerda. O treinador Vadão diz que a perda para o time é lamentável, mas garante que as outras jogadoras estão preparadas para enfrentar o time da Jamaica. “As companheiras de ataque vão ser Cristiane e Bia Zaneratto, que vão sair jogando como jogadores de frente” finalizou.\nFonte: Portal R7"
+  },
+  {
+    "id": "63443",
+    "tittle": "Apesar de reforma do Calçadão, comerciantes tem expectativa positiva para Dia das Mães",
+    "description": "",
+    "url_img": "https://raw.githubusercontent.com/Kleysonb/news_medium/master/api/imgs/paraiba.jpeg",
+    "link": "https://imperatriznoticias.ufma.br/economia/expectativas-do-comercio-de-imperatriz-aumentam-com-a-chegada-do-dia-das-maes/",
+    "origin": "imperatriznoticias.ufma",
+    "category": "Economia",
+    "date": "2019-06-08 22:19:48",
+    "autor": "Alice Caroline",
+    "text": "Apesar da reforma do calçadão, que se encontra com espaço reduzido de locomoção, espera-se que 87% dos imperatrizenses comprem algum presente para o Dia das Mães, é o que aponta a Associação Comercial e Industrial de Imperatriz (ACII). Segundo a Confederação Nacional de Dirigentes Lojistas (CNDL), a data é a segunda melhor do ano em termos de faturamento, perde somente para a comemoração do Natal. Um levantamento feito em todas as capitais do Brasil pela CNDL e pelo Serviço de Proteção ao Crédito (SPC) mostra que 78% dos consumidores devem realizar pelo menos uma compra nesse período.\nPara o presidente da Associação dos Lojistas do Calçadão, Jardson Lima de Lucena, as expectativas para as vendas deste ano é pelo menos chegar nos mesmos índices referentes ao ano passado, para ele, o que impede do setor varejista crescer no número de vendas este ano é o setor de eletrônicos “Eles estão com uma expectativa bem maior. Hoje, eles possuem um nicho de consumidores grande, e o público acaba indo para esse segmento dos eletrônicos, assim eles esperam vender até 10% a mais que ano passado”, explica.\nAlém disso, o presidente da associação menciona outro fator que talvez comprometa um pouco as vendas no domingo, é que no momento o calçadão está passando por reformas em sua estrutura, e isso acaba dificultando o fluxo de pessoas nas lojas, “Eu acredito que isso vá impactar em função do movimento, porque antes o calçadão era todo aberto, as pessoas podiam circular à vontade, hoje a gente só está com um pequeno espaço para as pessoas caminharem e o volume de consumidores no dia das mães é muito grande”.\nPara ele, as expectativas são boas mesmo com esses fatores preocupantes “Embora a obra prejudique um pouco o movimento, ao mesmo tempo favorece também, porque quem tiver passando por aqui vai entrar nas lojas e a gente vai acabar conquistando esse cliente”.\nA vendedora Mari Almeida, que trabalha em uma loja de departamento no calçadão diz que o estabelecimento se mantém com bastante expectativa, “As expectativas de vendas são boas, já começamos a vender muito, principalmente bolsas, sandálias, que são os que mais vende no dia das mães”.\nSegundo a vendedora, nessa data a loja fica lotada de clientes “ No Domingo das mães vem sempre mais gente, as pessoas deixam para comprar em cima da hora então a loja sempre fica cheia”.\nFelipe Carvalho, vendedor em uma loja de eletrodomésticos afirma que o dia doze de maio é a data mais esperada do ano para eles, e que as vendas neste mês alavancam “Vendemos muita televisão, celular, portáteis, liquidificador, colocamos várias promoções, vendemos bastante, ninguém pega férias em maio justamente por ser um mês com muita expectativa de venda”."
+  },
+  {
+    "id": "63443",
+    "tittle": "Encerra dia 15 de junho as Inscrições para o programa Cartão Transporte Universitário 2019.1",
+    "description": "",
+    "url_img": "https://raw.githubusercontent.com/Kleysonb/news_medium/master/api/imgs/cartao.png",
+    "link": "https://imperatriznoticias.ufma.br/sem-categoria/encerra-dia-15-de-junho-as-inscricoes-para-o-programa-cartao-transporte-universitario-2019-1/",
+    "origin": "imperatriznoticias.ufma",
+    "category": "Educação",
+    "date": "2019-06-08 22:19:48",
+    "autor": "Willas Ilarindo",
+    "text": "As inscrições para o programa Cartão Transporte Universitário 2019.1, criado pelo Governo do Maranhão, por meio das Secretarias de Estado Extraordinária da Juventude – Seejuv e dos Direitos Humanos e Participação Popular – Sedihpop, encerram dia 15 de junho e devem ser feitas exclusivamente pelo site transporteuniversitario.juventude.ma.gov.br.\nO programa tem como objetivo auxiliar semestralmente com um valor de R$800,00 em parcela única, universitários que precisam percorrer, diariamente, distâncias de mais de 100 km, somadas ida e volta das cidades onde residem até os municípios em que estão situadas as Instituições de Ensino Superior – IES a qual estão matriculados.\nAs mil vagas ofertadas neste semestre beneficiarão universitários maranhenses que estejam devidamente matriculados em cursos presenciais e com regime diário de aulas em IES públicas ou privadas situadas no Maranhão com o intuito de incentivar a permanência nos estudos."
+  },
+  {
+    "id": "63443",
+    "tittle": "PM reforça segurança no centro comercial para o dia das Mães",
+    "description": "",
+    "url_img": "https://raw.githubusercontent.com/Kleysonb/news_medium/master/api/imgs/",
+    "link": "https://imperatriznoticias.ufma.br/policia/seguranca-dia-das-maes/",
+    "origin": "imperatriznoticias.ufma",
+    "category": "Polícia",
+    "date": "2019-06-08 22:19:48",
+    "autor": "Willas Ilarindo Belo de Sena",
+    "text": "A Policia Militar já iniciou uma operação especial para garantir a segurança nas compras no centro comercial de imperatriz para o feriado de dia das Mães. O reforço no policiamento é tanto para os consumidores quanto para os lojistas, pois haverá uma grande circulação de dinheiro nesse período de compras até o dia 12 de maio.\nDe acordo com o soldado Vieira do 3º Batalhão de Polícia Militar, em período normal ficam dois policiais na Praça de Fátima de segunda a sábado fora a ronda da viatura. Já para a operação do feriado o policiamento tem efetivo distribuído entre a ronda a pé no calçadão até na Avenida Getúlio Vargas onde se concentram as lojas. “Começamos uma operação aqui no calçadão devido ao ferido do dia das mães e nosso serviço é fazer o policiamento extensivo e preventivo”, relata Vieira.\nPara o vendedor de frutas, Ananias, o centro como em toda cidade ela é sempre segura agora já nos bairros que se torna mais perigosa. “Há quatro anos que tenho minha banca e nunca fui assaltado, todos os dias eles estão ai fazendo o trabalho, hoje, perto do feriado aumentou o número de policiais”.\nA estudante, Gabriela Freitas, 19 anos, se sente segura ao comprar quando percebe o policiamento em ronda.  “Já tenho pouco dinheiro e ainda ser assaltada não dá. Voltarei amanhã para comprar mais coisas e já vou voltar com a certeza de que terá policiamento e assim poder fazer as compras tranquila”.\nA previsão de movimentação da Confederação Nacional do Comércio de Bens, Serviços e Turismo (CNC) é de que o volume de vendas para a data deve registrar aumento de 3,8% em relação a 2018, já descontada a inflação. Se as previsões forem confirmadas, 2019 será será o terceiro ano consecutivo de aumento real das vendas desta data. A movimentação financeira deve ser de R$ 9,7 bilhões neste ano, valor equivalente ao de 2014, que foi de R$ 9,6 bilhões."
+  },
+  {
+    "id": "63443",
+    "tittle": "",
+    "description": "",
+    "url_img": "https://raw.githubusercontent.com/Kleysonb/news_medium/master/api/imgs/desemprego.jpg",
+    "link": "https://imperatriznoticias.ufma.br/economia/desemprego-sobe-no-pais-e-maranhao-ocupa-a-4-posicao-de-estados-com-as-maiores-taxas/",
+    "origin": "imperatriznoticias.ufma",
+    "category": "Economia",
+    "date": "2019-06-08 22:19:48",
+    "autor": "Alice Caroline",
+    "text": "Em Imperatriz, entre janeiro e fevereiro deste ano o número de demissões de trabalhadores foi de 2.786 (52.58%) enquanto o de admissões foi de 2.513 (47,42%), segundo a plataforma do cadastro geral de empregados e desempregados (Caged). Em relação ao primeiro trimestre de 2018 houve um aumento de 0,24% no número de desligamentos em diversos setores da cidade. De acordo com o levantamento, o desemprego caiu em 18 estados, porém apresentou um pequeno aumento no Maranhão, entre os anos de 2017 e 2018 o índice variou de 14,3 % para 14,4% na taxa de desemprego, ocupando assim a 4° posição de estados brasileiros com as maiores taxas de desemprego do País.\nEssa realidade não atinge apenas o estado do Maranhão. Após dois semestres de queda, o desemprego no Brasil voltou a subir, no total, são de 12,7 milhões de pessoas desempregadas no país, representando um aumento de 12,4% em relação ao último trimestre que encerrou em outubro do ano passado. Segundo dados do último levantamento, divulgado no dia 29 de março de 2019, do Instituto Brasileiro de Geografia e Estatística (IBGE,) o aumento foi de 318 mil pessoas na população considerada desocupada."
+  }
 ]
