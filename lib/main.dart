@@ -11,7 +11,12 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home: new NoticeList()
+      home: new NoticeList(),
+      // routes: <String, WidgetBuilder>{
+      //   '/screen1': (BuildContext context) => new Screen1(),
+      //   '/screen2': (BuildContext context) => new Screen2(),
+      // },
+      debugShowCheckedModeBanner: false,
     );
   }
 }
