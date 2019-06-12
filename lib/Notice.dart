@@ -17,13 +17,13 @@ class Notice extends StatelessWidget {
     return Container(
       margin: const EdgeInsets.only(
           left: 10.0, right: 10.0, bottom: 10.0, top: 0.0),
-      child: new Material(
-        borderRadius: new BorderRadius.circular(6.0),
+      child: new Card(
+        // borderRadius: new BorderRadius.circular(20.0),
         elevation: 2.0,
         child: new InkWell(
           onTap: showDetail,
           splashColor: Colors.blue,
-          child: _getListTitle(),
+          child: _getListTitle(context),
         ),
       ),
     );
@@ -36,22 +36,43 @@ class Notice extends StatelessWidget {
     }));
   }
 
-  Widget _getListTitle() {
+  Widget _getListTitle(BuildContext context) {
+    // Foi adicionado dentro de Container para adicionar altura fixa.
     return new Container(
-      height: 95.0,
-      child: new Row(
-        crossAxisAlignment: CrossAxisAlignment.start,
+      height: 390.0,
+      // width: MediaQuery.of(context).size.width,
+      child: new Column(
+        // crossAxisAlignment: CrossAxisAlignment.start,
+
         children: <Widget>[
-          new FadeInImage.assetNetwork(
-            placeholder: '',
-            image: _img,
-            fit: BoxFit.cover,
-            width: 95.0,
-            height: 95.0,
+          new Hero(
+            tag: 'title',
+            child: _getImgWidget(_img),
           ),
-          _getColumnText(_title, _date, _description)
+          _getColumnText(_title, _date, _description),
         ],
       ),
+    );
+  }
+
+  Widget _getImgWidget(String url) {
+    return new Container(
+      // width: 95.0,
+      height: 250.0,
+      child: new ClipRRect(
+        borderRadius: new BorderRadius.only(
+            topRight: const Radius.circular(6.0),
+            topLeft: const Radius.circular(6.0)),
+        child: _getImageNetwork(url),
+      ),
+    );
+  }
+
+  Widget _getImageNetwork(String url) {
+    return new FadeInImage.assetNetwork(
+      placeholder: '',
+      image: url,
+      fit: BoxFit.cover,
     );
   }
 
@@ -60,11 +81,11 @@ class Notice extends StatelessWidget {
       child: new Container(
         margin: new EdgeInsets.all(10.0),
         child: new Column(
-          crossAxisAlignment: CrossAxisAlignment.start,
+          crossAxisAlignment: CrossAxisAlignment.center,
           children: <Widget>[
             _getTitleWidget(_title),
             _getDateWidget(_date),
-            _getDescriptionWidget(_description)
+            // _getDescriptionWidget(_description)
           ],
         ),
       ),
@@ -72,16 +93,28 @@ class Notice extends StatelessWidget {
   }
 
   Widget _getTitleWidget(String title) {
-    return new Text(
-      title,
-      maxLines: 1,
-      style: new TextStyle(fontWeight: FontWeight.bold),
+    return new Container(
+      padding: EdgeInsets.all(15.0),
+      child: new Text(
+        title,
+        maxLines: 3,
+        textAlign: TextAlign.center,
+        style: new TextStyle(fontSize: 18.0, color: Colors.grey),
+      ),
+    );
+  }
+
+  Widget _getFooterWidget(date) {
+    return new Row(
+      crossAxisAlignment: CrossAxisAlignment.center,
+      children: <Widget>[_getDateWidget(date)],
     );
   }
 
   Widget _getDateWidget(date) {
-    return new Text(date,
-        style: new TextStyle(color: Colors.grey, fontSize: 10.0));
+    return new Text("15 Jun 19",
+        textAlign: TextAlign.center,
+        style: new TextStyle(color: Colors.blue, fontSize: 15.0));
   }
 
   Widget _getDescriptionWidget(String description) {

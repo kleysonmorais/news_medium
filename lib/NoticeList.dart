@@ -102,37 +102,46 @@ class _NoticeListState extends State<NoticeList> {
     );
   }
 
-  Widget _buildCategoryItem(index){
-
-    return new GestureDetector(
-      onTap: (){
-        onTabCategory(index);
+  Widget _buildCategoryItem(index) {
+    return new InkWell(
+      onTap: () {
+        setSelectedItem(index);
+        print("click");
       },
-      child: new Center(
-        child: new Container(
-          margin: new EdgeInsets.only(left: 5.0, right: 5.0),
-          child: new Material(
-            elevation: 2.0,
-            borderRadius: new BorderRadius.circular(25.0),
-            child:  new Container(
-              padding: new EdgeInsets.only(left: 12.0,top: 7.0,bottom: 7.0,right: 12.0),
-              color: _categorySelected == index ? Colors.blue[800]:Colors.blue[500],
-              child: new Text(_categorys[index],
-                style: new TextStyle(
-                    color: Colors.white),
+      child: new Row(
+        mainAxisSize: MainAxisSize.min,
+        crossAxisAlignment: CrossAxisAlignment.center,
+        children: <Widget>[
+          new Container(
+            margin: new EdgeInsets.only(left: 5.0, right: 5.0),
+            child: new Material(
+              elevation: 2.0,
+              color: _categorySelected == index
+                  ? Theme.of(context).primaryColorDark
+                  : Theme.of(context).accentColor,
+              borderRadius: const BorderRadius.all(const Radius.circular(25.0)),
+              child: new Container(
+                padding: new EdgeInsets.only(
+                    left: 12.0, top: 7.0, bottom: 7.0, right: 12.0),
+                child: new Text(
+                  _categorys[index],
+                  style: new TextStyle(color: Colors.white),
+                ),
               ),
             ),
-          ),
-        ),
+          )
+        ],
       ),
     );
-
   }
 
-  void onTabCategory(index) {
-    setState(() {
-      _categorySelected = index;
-    });
+  void setSelectedItem(index) {
+    if (index != _categorySelected) {
+      // widget.tabSelected(index);
+      setState(() {
+        _categorySelected = index;
+      });
+    }
   }
 
   void setCategorys() {
